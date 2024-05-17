@@ -8,5 +8,5 @@ Các thành viên của nhóm bao gồm:
 
 Github của nhóm bao gồm:
 - File python để giải bài toán 8 puzzle bằng thuật toán A* với trạng thái mục tiêu là [1, 2, 3, 4, 5, 6, 7, 8, 0] (Run ở Main.py)
-- File word báo cáo của nhóm về đề tài (Informed search methods)
+- File word báo cáo của nhóm về đề tài Informed search methods
 - Link canva thuyết trình của nhóm: https://bom.so/w0wLXy
